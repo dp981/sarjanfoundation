@@ -1,0 +1,29 @@
+#divvision{
+    background: #5cb9b1;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    color: #fff;
+    padding: 35px 15px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.heading text-white{
+    font-family: 'Roboto Slab', serif;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.vision-inner{
+    background: #5cb9b1;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    color: #fff;
+    padding: 35px 15px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
